@@ -1,0 +1,49 @@
+.form-box {
+  padding: 19px;
+  background: #ffffff;
+  border: 1px solid #e2e2e2;
+  margin-top: 7%;
+  margin-left: 35%;
+  left: 481px;
+  width: fit-content;
+}
+
+.form-class {
+  display: flex;
+  flex-direction: column;
+}
+
+.textfield-style {
+  margin-left: 40px;
+}
+.sub {
+  width: 226.53px;
+  height: 49.12px;
+}
+.drop {
+  height: 370.3px;
+  width: 56px;
+}
+.buttonClass {
+  align-self: center;
+  margin-top: 19px;
+}
+
+.formText {
+  width: 453px;
+  height: 21px;
+  margin-top: 20px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #707070;
+}
+.top-form {
+  position: absolute;
+  left: 55%;
+  top: 10%;
+}

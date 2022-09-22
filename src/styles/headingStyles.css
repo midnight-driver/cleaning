@@ -1,0 +1,157 @@
+.headingStyles {
+  height: 36px;
+  width: 91px;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 18px;
+  letter-spacing: 0em;
+  /* text-align: left; */
+  font-family: Montserrat;
+  justify-content: flex-start;
+  flex-direction: row;
+  top: 1.92px;
+  margin-right:40%;
+  margin-top: 21.92px;
+  position:absolute;
+ margin-left:19%;
+  
+}
+#cvdisplay{
+  width:20%;
+  margin-left:70%;
+}
+.dropdownlabel {
+  color: pink;
+}
+
+.headerCovidDis {
+  color: #001f5a;
+  width: 188px;
+  height: 24px;
+  margin-left:50%;
+  margin-top: 30px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 24px;
+  text-align: center;
+}
+/* contenttype */
+.rectang{
+  padding-top: 5%;
+   
+    padding-left: 9%;
+  box-sizing: border-box;
+margin-top: 7%;
+    margin-left: 25%;
+width: 958px;
+height: 100%;
+left: 481px;
+top: 1311px;
+
+background: #FFFFFF;
+border: 1px solid #E2E2E2;
+}
+.lab{
+ 
+width: 697.5px;
+height: 58.26px;
+left: 529.92px;
+top: 1340px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 23.3023px;
+line-height: 29px;
+
+color: #000000;
+
+}
+.lab2{
+  
+width: 747.89px;
+height: 23.3px;
+left: 532.58px;
+top: 1439.03px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 18.9331px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.mul{
+  font-family: 'Mulish';
+  margin-bottom: 74.28px;
+}
+.qStyle{
+  letter-spacing: .001rem;
+}
+.qContent{
+      color: grey;
+    height: 100%;
+    width: 50%;
+    margin-left: 25%;
+    justify-content: center;
+}
+.customer{
+margin-left:35%;
+ font-family:'Roboto';
+font-weight: 100;
+}
+.custI{
+  width:6%;
+  height:10%;
+  background-color: variant;
+}
+container{
+  display:'flex';
+}
+.tools{
+  width: 2%;
+  height:2%
+}
+.serviceBox{
+  box-sizing: border-box;
+
+/* position: absolute; */
+height: 142.18px;
+left: 27.86%;
+right: 62.98%;
+top: 3%;
+width:10%;
+background: #FFFFFF;
+/* opacity: 0.2; */
+border: 1px solid #0B4868;
+box-shadow: 0px 3px 12px rgba(0, 0, 0, 0.25);
+border-radius: 20px 20px 0px 0px;
+margin-right:9%
+}
+.serviceIm{
+  width: 70%;
+    height: 90%;
+    bottom: 10%;
+    margin-top: -12%;
+    margin-left: 13%;
+}
+.circle{
+  box-sizing: border-box;
+
+position: absolute;
+width: 58.83px;
+height: 58.83px;
+
+top: 3929.24px;
+
+border: 2px solid rgba(117, 117, 117, 0.5);
+}
+.functions{
+  margin-top:8%
+}
